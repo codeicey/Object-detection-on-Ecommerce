@@ -7,4 +7,4 @@ The two folders are connected by Rest API in which the detected item from the ob
 4. Run the object detection app on flutter
 5. It works!
 
-Note: This projects above are made by @Denis Ivy for django-ecommerce-master project and flutter project made by @shaqian.
+Note: This projects above are made by @Denis Ivy for django-ecommerce-master project and flutter project made by @shaqian. Only the API for object detection was a new feature added.
