@@ -1,4 +1,4 @@
-# Object-detection-on-Ecommerce
+# Object-detection-on-Ecommerce-using-API
 It shows implementation of object detection on ecommerce
 The two folders are connected by Rest API in which the detected item from the object detection is compared to available items on the ecommerce.
 1. Install python, flutter and requirements,
